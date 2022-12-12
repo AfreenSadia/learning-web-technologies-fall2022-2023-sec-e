@@ -1,0 +1,108 @@
+/* primary: #3B5249
+secondary: #519872
+background: #A4B494
+foreground: #BEC5AD
+extra black coffee: #34252F */
+body { 
+    margin: 0;
+}
+
+ /* @keyframes example {
+    0%   {background-color: #E5E1EE;}
+    25%  {background-color: #DFFDFF;}
+    50%  {background-color: #90BEDE;}
+    100% {background-color: #90F3FF;}
+  }  */
+  /* @keyframes example {
+    0%   {background-color: rgb(176, 112, 161);}
+    25%  {background-color: rgb(220, 220, 163);}
+    50%  {background-color: rgb(188, 148, 216);}
+    100% {background-color: rgb(140, 208, 209);}
+  } */
+
+.container-table{
+    background-color: hsl(90, 17%, 98%);
+    width: 100%;
+    height: 90%;
+    border: 1;
+    border-collapse: collapse;
+    animation-name: example;
+    animation-duration: 1s; 
+}
+
+.top-menu-bar{
+    background-color: #34252F;
+    width: 100%;
+    height: 10%;
+}
+
+.footer-bar{
+    background-color: #3B3131;
+    width: 100%;
+    height: 10%;
+}
+
+.top-menu-item{
+    text-align: right;
+    padding: 12;
+}
+
+.menu-tile{
+    height: 100%;
+    width: 100%;
+}
+
+.bg-color-gray{
+    background-color: gray;
+}
+
+.bg-color-skyblue{
+    background-color: skyblue;
+}
+
+.logo{
+    width: 100%;
+    height: 100%;
+}
+
+.profile-picture{
+    height: 40%;
+    width: 60%;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.w-25{
+    width: 25%;
+}
+
+.w-20{
+    width: 20%;
+}
+
+.W-15{
+    width: 15%;
+}
+
+.new1 {
+    border-top: 1px solid black;
+  }
+  
